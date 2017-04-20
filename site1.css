@@ -1,0 +1,49 @@
+body
+{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	
+	background-size: 100%;
+}
+.wrapper
+{
+	margin: auto;
+	width: 80%;
+	background-color: white;
+	padding: 10px; 
+}
+.footer{
+margin: auto;
+ background: linear-gradient(to bottom, #0033cc 47%, #33ccff 100%);
+display: flex;
+text-align: center;
+}
+.footer a{
+
+	font-size:15px;
+color:black;
+list-style-type: none;
+padding: 5px 20px 5px 20px;
+margin-top: 10px;
+text-decoration: none;
+ float: left;
+
+}
+.footer ul li a:hover{
+	 background: linear-gradient(to top, #0033cc 47%, #33ccff 100%);
+color:yellow;
+
+}
+.footer ul{
+	list-style-type: none;
+float:left;
+`
+}
+.bojafooter{
+
+
+}
+.footer ul li{
+	float:left;
+	text-align: center; 
+}
